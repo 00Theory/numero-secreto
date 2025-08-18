@@ -1,0 +1,11 @@
+# ignora pasta específica
+temp/
+
+# ignora arquivo específico
+arquivo.txt
+
+# ignora quaisquer arquivos css, independente do nome
+*.css 
+
+# ignora quaisquer arquivos de log
+*.log
